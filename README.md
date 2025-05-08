@@ -1,7 +1,5 @@
 ## 📄 Rapport Projet Junior – M1 MTI3D
 
-Voici les pages de mon rapport sous forme d’aperçus PNG :
-
 <p align="center">
   <img src="https://github.com/MansLeoo/PVDProject/blob/main/img/Mans_Leo_rapport_M1_ProjetJunior-01.png?raw=true">
   <img src="https://github.com/MansLeoo/PVDProject/blob/main/img/Mans_Leo_rapport_M1_ProjetJunior-02.png?raw=true">
