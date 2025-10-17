@@ -1,7 +1,7 @@
 ## 📄 Rapport Projet Junior – M1 MTI3D
 
 <p align="center">
-  <img src="https://github.com/MansLeoo/PVDProject/blob/main/img/Mars_Leo_rapport_M1_ProjetJunior_page-0001.JPG?raw=true">
+  <img src="https://github.com/MansLeoo/PVDProject/blob/main/img/Mars_Leo_rapport_M1_ProjetJunior_page-0001.JPG">
   <img src="https://github.com/MansLeoo/PVDProject/blob/main/img/Mars_Leo_rapport_M1_ProjetJunior_page-0002.JPG?raw=true">
   <img src="https://github.com/MansLeoo/PVDProject/blob/main/img/Mars_Leo_rapport_M1_ProjetJunior_page-0003.JPG?raw=true">
 </p>
